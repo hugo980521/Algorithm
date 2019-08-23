@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="INFO">
+    <appenders>
+        <Console name="consolePrint" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d [%t] %-5level %logger{36} - %msg%n" />
+        </Console>
+        <!--<RollingFile name="rollingFile" fileName="${sys:jetty.home}/logs/transformer.log"-->
+                     <!--filePattern="${sys:jetty.home}/logs/transformer-%d{yyyy-MM-dd}.log.gz">-->
+            <!--<PatternLayout pattern="%d [%t] %-5level %logger{36} - %msg%n" />-->
+            <!--<Policies>-->
+                <!--<TimeBasedTriggeringPolicy/>-->
+            <!--</Policies>-->
+        <!--</RollingFile>-->
+    </appenders>
+    <loggers>
+        <root level="info">
+            <appender-ref ref="consolePrint" />
+            <!--<appender-ref ref="file" />-->
+            <!--<appender-ref ref="rollingFile" />-->
+        </root>
+    </loggers>
+</configuration>

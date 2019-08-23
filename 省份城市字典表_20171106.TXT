@@ -1,0 +1,2410 @@
+{
+	"code": 2105,
+	"msg": "ok",
+	"data": {
+		"result": [
+			{
+				"province": "黑龙江省",
+				"city_level": "3",
+				"city": "大兴安岭地区",
+				"c-code": "232700",
+				"p-code": "230000"
+			},
+			{
+				"province": "黑龙江省",
+				"city_level": "3",
+				"city": "黑河市",
+				"c-code": "231100",
+				"p-code": "230000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "3",
+				"city": "阿勒泰地区",
+				"c-code": "654300",
+				"p-code": "650000"
+			},
+			{
+				"province": "黑龙江省",
+				"city_level": "3",
+				"city": "齐齐哈尔市",
+				"c-code": "230200",
+				"p-code": "230000"
+			},
+			{
+				"province": "黑龙江省",
+				"city_level": "3",
+				"city": "鹤岗市",
+				"c-code": "230400",
+				"p-code": "230000"
+			},
+			{
+				"province": "内蒙古自治区",
+				"city_level": "3",
+				"city": "兴安盟",
+				"c-code": "152200",
+				"p-code": "150000"
+			},
+			{
+				"province": "黑龙江省",
+				"city_level": "3",
+				"city": "双鸭山市",
+				"c-code": "230500",
+				"p-code": "230000"
+			},
+			{
+				"province": "黑龙江省",
+				"city_level": "3",
+				"city": "大庆市",
+				"c-code": "230600",
+				"p-code": "230000"
+			},
+			{
+				"province": "内蒙古自治区",
+				"city_level": "3",
+				"city": "锡林郭勒盟",
+				"c-code": "152500",
+				"p-code": "150000"
+			},
+			{
+				"province": "黑龙江省",
+				"city_level": "3",
+				"city": "鸡西市",
+				"c-code": "230300",
+				"p-code": "230000"
+			},
+			{
+				"province": "黑龙江省",
+				"city_level": "3",
+				"city": "七台河市",
+				"c-code": "230900",
+				"p-code": "230000"
+			},
+			{
+				"province": "内蒙古自治区",
+				"city_level": "3",
+				"city": "通辽市",
+				"c-code": "150500",
+				"p-code": "150000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "3",
+				"city": "昌吉回族自治州",
+				"c-code": "652300",
+				"p-code": "650000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "3",
+				"city": "博尔塔拉蒙古自治州",
+				"c-code": "652700",
+				"p-code": "650000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "3",
+				"city": "伊犁哈萨克自治州",
+				"c-code": "654000",
+				"p-code": "650000"
+			},
+			{
+				"province": "吉林省",
+				"city_level": "3",
+				"city": "吉林市",
+				"c-code": "220200",
+				"p-code": "220000"
+			},
+			{
+				"province": "吉林省",
+				"city_level": "2",
+				"city": "长春市",
+				"c-code": "220100",
+				"p-code": "220000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "3",
+				"city": "吐鲁番地区",
+				"c-code": "652100",
+				"p-code": "650000"
+			},
+			{
+				"province": "内蒙古自治区",
+				"city_level": "3",
+				"city": "乌兰察布市",
+				"c-code": "150900",
+				"p-code": "150000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "3",
+				"city": "阜新市",
+				"c-code": "210900",
+				"p-code": "210000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "3",
+				"city": "抚顺市",
+				"c-code": "210400",
+				"p-code": "210000"
+			},
+			{
+				"province": "内蒙古自治区",
+				"city_level": "3",
+				"city": "巴彦淖尔市",
+				"c-code": "150800",
+				"p-code": "150000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "3",
+				"city": "锦州市",
+				"c-code": "210700",
+				"p-code": "210000"
+			},
+			{
+				"province": "吉林省",
+				"city_level": "3",
+				"city": "白山市",
+				"c-code": "220600",
+				"p-code": "220000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "3",
+				"city": "辽阳市",
+				"c-code": "211000",
+				"p-code": "210000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "3",
+				"city": "盘锦市",
+				"c-code": "211100",
+				"p-code": "210000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "3",
+				"city": "克孜勒苏柯尔克孜自治州",
+				"c-code": "653000",
+				"p-code": "650000"
+			},
+			{
+				"province": "内蒙古自治区",
+				"city_level": "2",
+				"city": "呼和浩特市",
+				"c-code": "150100",
+				"p-code": "150000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "3",
+				"city": "葫芦岛市",
+				"c-code": "211400",
+				"p-code": "210000"
+			},
+			{
+				"province": "吉林省",
+				"city_level": "3",
+				"city": "通化市",
+				"c-code": "220500",
+				"p-code": "220000"
+			},
+			{
+				"province": "内蒙古自治区",
+				"city_level": "3",
+				"city": "鄂尔多斯市",
+				"c-code": "150600",
+				"p-code": "150000"
+			},
+			{
+				"province": "山西省",
+				"city_level": "3",
+				"city": "大同市",
+				"c-code": "140200",
+				"p-code": "140000"
+			},
+			{
+				"province": "河北省",
+				"city_level": "3",
+				"city": "秦皇岛市",
+				"c-code": "130300",
+				"p-code": "130000"
+			},
+			{
+				"province": "山西省",
+				"city_level": "3",
+				"city": "朔州市",
+				"c-code": "140600",
+				"p-code": "140000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "3",
+				"city": "丹东市",
+				"c-code": "210600",
+				"p-code": "210000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "3",
+				"city": "嘉峪关市",
+				"c-code": "620200",
+				"p-code": "620000"
+			},
+			{
+				"province": "内蒙古自治区",
+				"city_level": "3",
+				"city": "乌海市",
+				"c-code": "150300",
+				"p-code": "150000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "3",
+				"city": "张掖市",
+				"c-code": "620700",
+				"p-code": "620000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "3",
+				"city": "大连市",
+				"c-code": "210200",
+				"p-code": "210000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "3",
+				"city": "酒泉市",
+				"c-code": "620900",
+				"p-code": "620000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "3",
+				"city": "和田地区",
+				"c-code": "653200",
+				"p-code": "650000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "3",
+				"city": "武威市",
+				"c-code": "620600",
+				"p-code": "620000"
+			},
+			{
+				"province": "河北省",
+				"city_level": "3",
+				"city": "唐山市",
+				"c-code": "130200",
+				"p-code": "130000"
+			},
+			{
+				"province": "宁夏回族自治区",
+				"city_level": "3",
+				"city": "石嘴山市",
+				"c-code": "640200",
+				"p-code": "640000"
+			},
+			{
+				"province": "青海省",
+				"city_level": "3",
+				"city": "海北藏族自治州",
+				"c-code": "632200",
+				"p-code": "630000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "3",
+				"city": "金昌市",
+				"c-code": "620300",
+				"p-code": "620000"
+			},
+			{
+				"province": "河北省",
+				"city_level": "3",
+				"city": "沧州市",
+				"c-code": "130900",
+				"p-code": "130000"
+			},
+			{
+				"province": "宁夏回族自治区",
+				"city_level": "2",
+				"city": "银川市",
+				"c-code": "640100",
+				"p-code": "640000"
+			},
+			{
+				"province": "山西省",
+				"city_level": "3",
+				"city": "阳泉市",
+				"c-code": "140300",
+				"p-code": "140000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "烟台市",
+				"c-code": "370600",
+				"p-code": "370000"
+			},
+			{
+				"province": "宁夏回族自治区",
+				"city_level": "3",
+				"city": "吴忠市",
+				"c-code": "640300",
+				"p-code": "640000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "东营市",
+				"c-code": "370500",
+				"p-code": "370000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "德州市",
+				"c-code": "371400",
+				"p-code": "370000"
+			},
+			{
+				"province": "河北省",
+				"city_level": "3",
+				"city": "邢台市",
+				"c-code": "130500",
+				"p-code": "130000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "3",
+				"city": "白银市",
+				"c-code": "620400",
+				"p-code": "620000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "威海市",
+				"c-code": "371000",
+				"p-code": "370000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "2",
+				"city": "济南市",
+				"c-code": "370100",
+				"p-code": "370000"
+			},
+			{
+				"province": "陕西省",
+				"city_level": "3",
+				"city": "延安市",
+				"c-code": "610600",
+				"p-code": "610000"
+			},
+			{
+				"province": "青海省",
+				"city_level": "3",
+				"city": "海南藏族自治州",
+				"c-code": "632500",
+				"p-code": "630000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "3",
+				"city": "庆阳市",
+				"c-code": "621000",
+				"p-code": "620000"
+			},
+			{
+				"province": "山西省",
+				"city_level": "3",
+				"city": "长治市",
+				"c-code": "140400",
+				"p-code": "140000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "聊城市",
+				"c-code": "371500",
+				"p-code": "370000"
+			},
+			{
+				"province": "河北省",
+				"city_level": "3",
+				"city": "邯郸市",
+				"c-code": "130400",
+				"p-code": "130000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "2",
+				"city": "兰州市",
+				"c-code": "620100",
+				"p-code": "620000"
+			},
+			{
+				"province": "山西省",
+				"city_level": "3",
+				"city": "临汾市",
+				"c-code": "141000",
+				"p-code": "140000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "青岛市",
+				"c-code": "370200",
+				"p-code": "370000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "莱芜市",
+				"c-code": "371200",
+				"p-code": "370000"
+			},
+			{
+				"province": "宁夏回族自治区",
+				"city_level": "3",
+				"city": "固原市",
+				"c-code": "640400",
+				"p-code": "640000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "泰安市",
+				"c-code": "370900",
+				"p-code": "370000"
+			},
+			{
+				"province": "青海省",
+				"city_level": "3",
+				"city": "海东市",
+				"c-code": "632100",
+				"p-code": "630000"
+			},
+			{
+				"province": "青海省",
+				"city_level": "3",
+				"city": "玉树藏族自治州",
+				"c-code": "632700",
+				"p-code": "630000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "3",
+				"city": "临夏回族自治州",
+				"c-code": "622900",
+				"p-code": "620000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "濮阳市",
+				"c-code": "410900",
+				"p-code": "410000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "临沂市",
+				"c-code": "371300",
+				"p-code": "370000"
+			},
+			{
+				"province": "山西省",
+				"city_level": "3",
+				"city": "晋城市",
+				"c-code": "140500",
+				"p-code": "140000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "鹤壁市",
+				"c-code": "410600",
+				"p-code": "410000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "3",
+				"city": "定西市",
+				"c-code": "621100",
+				"p-code": "620000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "日照市",
+				"c-code": "371100",
+				"p-code": "370000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "菏泽市",
+				"c-code": "371700",
+				"p-code": "370000"
+			},
+			{
+				"province": "山西省",
+				"city_level": "3",
+				"city": "运城市",
+				"c-code": "140800",
+				"p-code": "140000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "3",
+				"city": "平凉市",
+				"c-code": "620800",
+				"p-code": "620000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "3",
+				"city": "甘南藏族自治州",
+				"c-code": "623000",
+				"p-code": "620000"
+			},
+			{
+				"province": "陕西省",
+				"city_level": "3",
+				"city": "铜川市",
+				"c-code": "610200",
+				"p-code": "610000"
+			},
+			{
+				"province": "陕西省",
+				"city_level": "3",
+				"city": "咸阳市",
+				"c-code": "610400",
+				"p-code": "610000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "3",
+				"city": "天水市",
+				"c-code": "620500",
+				"p-code": "620000"
+			},
+			{
+				"province": "陕西省",
+				"city_level": "3",
+				"city": "宝鸡市",
+				"c-code": "610300",
+				"p-code": "610000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "三门峡市",
+				"c-code": "411200",
+				"p-code": "410000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "开封市",
+				"c-code": "410200",
+				"p-code": "410000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "2",
+				"city": "郑州市",
+				"c-code": "410100",
+				"p-code": "410000"
+			},
+			{
+				"province": "江苏省",
+				"city_level": "3",
+				"city": "徐州市",
+				"c-code": "320300",
+				"p-code": "320000"
+			},
+			{
+				"province": "青海省",
+				"city_level": "3",
+				"city": "海西蒙古族藏族自治州",
+				"c-code": "632800",
+				"p-code": "630000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "商丘市",
+				"c-code": "411400",
+				"p-code": "410000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "洛阳市",
+				"c-code": "410300",
+				"p-code": "410000"
+			},
+			{
+				"province": "江苏省",
+				"city_level": "3",
+				"city": "连云港市",
+				"c-code": "320700",
+				"p-code": "320000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "宿州市",
+				"c-code": "341300",
+				"p-code": "340000"
+			},
+			{
+				"province": "甘肃省",
+				"city_level": "3",
+				"city": "陇南市",
+				"c-code": "621200",
+				"p-code": "620000"
+			},
+			{
+				"province": "陕西省",
+				"city_level": "3",
+				"city": "商洛市",
+				"c-code": "611000",
+				"p-code": "610000"
+			},
+			{
+				"province": "江苏省",
+				"city_level": "3",
+				"city": "宿迁市",
+				"c-code": "321300",
+				"p-code": "320000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "许昌市",
+				"c-code": "411000",
+				"p-code": "410000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "周口市",
+				"c-code": "411600",
+				"p-code": "410000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "阿坝藏族羌族自治州",
+				"c-code": "513200",
+				"p-code": "510000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "淮北市",
+				"c-code": "340600",
+				"p-code": "340000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "漯河市",
+				"c-code": "411100",
+				"p-code": "410000"
+			},
+			{
+				"province": "陕西省",
+				"city_level": "3",
+				"city": "汉中市",
+				"c-code": "610700",
+				"p-code": "610000"
+			},
+			{
+				"province": "陕西省",
+				"city_level": "2",
+				"city": "西安市",
+				"c-code": "610100",
+				"p-code": "610000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "阜阳市",
+				"c-code": "341200",
+				"p-code": "340000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "南阳市",
+				"c-code": "411300",
+				"p-code": "410000"
+			},
+			{
+				"province": "江苏省",
+				"city_level": "3",
+				"city": "扬州市",
+				"c-code": "321000",
+				"p-code": "320000"
+			},
+			{
+				"province": "湖北省",
+				"city_level": "3",
+				"city": "十堰市",
+				"c-code": "420300",
+				"p-code": "420000"
+			},
+			{
+				"province": "江苏省",
+				"city_level": "3",
+				"city": "泰州市",
+				"c-code": "321200",
+				"p-code": "320000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "淮南市",
+				"c-code": "340400",
+				"p-code": "340000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "广元市",
+				"c-code": "510800",
+				"p-code": "510000"
+			},
+			{
+				"province": "江苏省",
+				"city_level": "3",
+				"city": "南通市",
+				"c-code": "320600",
+				"p-code": "320000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "六安市",
+				"c-code": "341500",
+				"p-code": "340000"
+			},
+			{
+				"province": "湖北省",
+				"city_level": "3",
+				"city": "襄阳市",
+				"c-code": "420600",
+				"p-code": "420000"
+			},
+			{
+				"province": "江苏省",
+				"city_level": "2",
+				"city": "南京市",
+				"c-code": "320100",
+				"p-code": "320000"
+			},
+			{
+				"province": "西藏自治区",
+				"city_level": "3",
+				"city": "昌都地区",
+				"c-code": "542100",
+				"p-code": "540000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "信阳市",
+				"c-code": "411500",
+				"p-code": "410000"
+			},
+			{
+				"province": "湖北省",
+				"city_level": "3",
+				"city": "随州市",
+				"c-code": "421300",
+				"p-code": "420000"
+			},
+			{
+				"province": "江苏省",
+				"city_level": "3",
+				"city": "镇江市",
+				"c-code": "321100",
+				"p-code": "320000"
+			},
+			{
+				"province": "江苏省",
+				"city_level": "3",
+				"city": "苏州市",
+				"c-code": "320500",
+				"p-code": "320000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "巴中市",
+				"c-code": "511900",
+				"p-code": "510000"
+			},
+			{
+				"province": "上海市",
+				"city_level": "1",
+				"city": "上海市",
+				"c-code": "310200",
+				"p-code": "310000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "南充市",
+				"c-code": "511300",
+				"p-code": "510000"
+			},
+			{
+				"province": "湖北省",
+				"city_level": "3",
+				"city": "荆门市",
+				"c-code": "420800",
+				"p-code": "420000"
+			},
+			{
+				"province": "湖北省",
+				"city_level": "3",
+				"city": "黄冈市",
+				"c-code": "421100",
+				"p-code": "420000"
+			},
+			{
+				"province": "湖北省",
+				"city_level": "3",
+				"city": "宜昌市",
+				"c-code": "420500",
+				"p-code": "420000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "马鞍山市",
+				"c-code": "340500",
+				"p-code": "340000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "2",
+				"city": "成都市",
+				"c-code": "510100",
+				"p-code": "510000"
+			},
+			{
+				"province": "湖北省",
+				"city_level": "3",
+				"city": "恩施土家族苗族自治州",
+				"c-code": "422800",
+				"p-code": "420000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "安庆市",
+				"c-code": "340800",
+				"p-code": "340000"
+			},
+			{
+				"province": "浙江省",
+				"city_level": "3",
+				"city": "湖州市",
+				"c-code": "330500",
+				"p-code": "330000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "遂宁市",
+				"c-code": "510900",
+				"p-code": "510000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "德阳市",
+				"c-code": "510600",
+				"p-code": "510000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "绵阳市",
+				"c-code": "510700",
+				"p-code": "510000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "铜陵市",
+				"c-code": "340700",
+				"p-code": "340000"
+			},
+			{
+				"province": "西藏自治区",
+				"city_level": "3",
+				"city": "那曲地区",
+				"c-code": "542400",
+				"p-code": "540000"
+			},
+			{
+				"province": "西藏自治区",
+				"city_level": "2",
+				"city": "拉萨市",
+				"c-code": "540100",
+				"p-code": "540000"
+			},
+			{
+				"province": "湖北省",
+				"city_level": "2",
+				"city": "武汉市",
+				"c-code": "420100",
+				"p-code": "420000"
+			},
+			{
+				"province": "浙江省",
+				"city_level": "3",
+				"city": "嘉兴市",
+				"c-code": "330400",
+				"p-code": "330000"
+			},
+			{
+				"province": "重庆市",
+				"city_level": "2",
+				"city": "重庆市",
+				"c-code": "500100",
+				"p-code": "500000"
+			},
+			{
+				"province": "西藏自治区",
+				"city_level": "3",
+				"city": "日喀则地区",
+				"c-code": "542300",
+				"p-code": "540000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "雅安市",
+				"c-code": "511800",
+				"p-code": "510000"
+			},
+			{
+				"province": "浙江省",
+				"city_level": "3",
+				"city": "舟山市",
+				"c-code": "330900",
+				"p-code": "330000"
+			},
+			{
+				"province": "湖北省",
+				"city_level": "3",
+				"city": "孝感市",
+				"c-code": "420900",
+				"p-code": "420000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "资阳市",
+				"c-code": "512000",
+				"p-code": "510000"
+			},
+			{
+				"province": "湖北省",
+				"city_level": "3",
+				"city": "鄂州市",
+				"c-code": "420700",
+				"p-code": "420000"
+			},
+			{
+				"province": "浙江省",
+				"city_level": "2",
+				"city": "杭州市",
+				"c-code": "330100",
+				"p-code": "330000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "广安市",
+				"c-code": "511600",
+				"p-code": "510000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "达州市",
+				"c-code": "511700",
+				"p-code": "510000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "眉山市",
+				"c-code": "511400",
+				"p-code": "510000"
+			},
+			{
+				"province": "湖北省",
+				"city_level": "3",
+				"city": "黄石市",
+				"c-code": "420200",
+				"p-code": "420000"
+			},
+			{
+				"province": "湖北省",
+				"city_level": "3",
+				"city": "咸宁市",
+				"c-code": "421200",
+				"p-code": "420000"
+			},
+			{
+				"province": "浙江省",
+				"city_level": "3",
+				"city": "绍兴市",
+				"c-code": "330600",
+				"p-code": "330000"
+			},
+			{
+				"province": "湖北省",
+				"city_level": "3",
+				"city": "荆州市",
+				"c-code": "421000",
+				"p-code": "420000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "3",
+				"city": "常德市",
+				"c-code": "430700",
+				"p-code": "430000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "内江市",
+				"c-code": "511000",
+				"p-code": "510000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "乐山市",
+				"c-code": "511100",
+				"p-code": "510000"
+			},
+			{
+				"province": "江西省",
+				"city_level": "3",
+				"city": "景德镇市",
+				"c-code": "360200",
+				"p-code": "360000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "3",
+				"city": "岳阳市",
+				"c-code": "430600",
+				"p-code": "430000"
+			},
+			{
+				"province": "浙江省",
+				"city_level": "3",
+				"city": "宁波市",
+				"c-code": "330200",
+				"p-code": "330000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "3",
+				"city": "张家界市",
+				"c-code": "430800",
+				"p-code": "430000"
+			},
+			{
+				"province": "江西省",
+				"city_level": "3",
+				"city": "九江市",
+				"c-code": "360400",
+				"p-code": "360000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "池州市",
+				"c-code": "341700",
+				"p-code": "340000"
+			},
+			{
+				"province": "江西省",
+				"city_level": "3",
+				"city": "上饶市",
+				"c-code": "361100",
+				"p-code": "360000"
+			},
+			{
+				"province": "浙江省",
+				"city_level": "3",
+				"city": "金华市",
+				"c-code": "330700",
+				"p-code": "330000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "自贡市",
+				"c-code": "510300",
+				"p-code": "510000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "3",
+				"city": "湘西土家族苗族自治州",
+				"c-code": "433100",
+				"p-code": "430000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "3",
+				"city": "益阳市",
+				"c-code": "430900",
+				"p-code": "430000"
+			},
+			{
+				"province": "浙江省",
+				"city_level": "3",
+				"city": "衢州市",
+				"c-code": "330800",
+				"p-code": "330000"
+			},
+			{
+				"province": "浙江省",
+				"city_level": "3",
+				"city": "台州市",
+				"c-code": "331000",
+				"p-code": "330000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "泸州市",
+				"c-code": "510500",
+				"p-code": "510000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "宜宾市",
+				"c-code": "511500",
+				"p-code": "510000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "迪庆藏族自治州",
+				"c-code": "533400",
+				"p-code": "530000"
+			},
+			{
+				"province": "贵州省",
+				"city_level": "3",
+				"city": "遵义市",
+				"c-code": "520300",
+				"p-code": "520000"
+			},
+			{
+				"province": "贵州省",
+				"city_level": "3",
+				"city": "铜仁市",
+				"c-code": "520600",
+				"p-code": "520000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "昭通市",
+				"c-code": "530600",
+				"p-code": "530000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "2",
+				"city": "长沙市",
+				"c-code": "430100",
+				"p-code": "430000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "怒江傈僳族自治州",
+				"c-code": "533300",
+				"p-code": "530000"
+			},
+			{
+				"province": "福建省",
+				"city_level": "3",
+				"city": "南平市",
+				"c-code": "350700",
+				"p-code": "350000"
+			},
+			{
+				"province": "江西省",
+				"city_level": "3",
+				"city": "新余市",
+				"c-code": "360500",
+				"p-code": "360000"
+			},
+			{
+				"province": "浙江省",
+				"city_level": "3",
+				"city": "温州市",
+				"c-code": "330300",
+				"p-code": "330000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "3",
+				"city": "株洲市",
+				"c-code": "430200",
+				"p-code": "430000"
+			},
+			{
+				"province": "江西省",
+				"city_level": "3",
+				"city": "吉安市",
+				"c-code": "360800",
+				"p-code": "360000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "丽江市",
+				"c-code": "530700",
+				"p-code": "530000"
+			},
+			{
+				"province": "福建省",
+				"city_level": "3",
+				"city": "宁德市",
+				"c-code": "350900",
+				"p-code": "350000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "3",
+				"city": "邵阳市",
+				"c-code": "430500",
+				"p-code": "430000"
+			},
+			{
+				"province": "贵州省",
+				"city_level": "3",
+				"city": "黔南布依族苗族自治州",
+				"c-code": "522700",
+				"p-code": "520000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "3",
+				"city": "衡阳市",
+				"c-code": "430400",
+				"p-code": "430000"
+			},
+			{
+				"province": "贵州省",
+				"city_level": "2",
+				"city": "贵阳市",
+				"c-code": "520100",
+				"p-code": "520000"
+			},
+			{
+				"province": "江西省",
+				"city_level": "3",
+				"city": "赣州市",
+				"c-code": "360700",
+				"p-code": "360000"
+			},
+			{
+				"province": "福建省",
+				"city_level": "3",
+				"city": "三明市",
+				"c-code": "350400",
+				"p-code": "350000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "曲靖市",
+				"c-code": "530300",
+				"p-code": "530000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "3",
+				"city": "永州市",
+				"c-code": "431100",
+				"p-code": "430000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "凉山彝族自治州",
+				"c-code": "513400",
+				"p-code": "510000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "攀枝花市",
+				"c-code": "510400",
+				"p-code": "510000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "大理白族自治州",
+				"c-code": "532900",
+				"p-code": "530000"
+			},
+			{
+				"province": "福建省",
+				"city_level": "2",
+				"city": "福州市",
+				"c-code": "350100",
+				"p-code": "350000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "3",
+				"city": "桂林市",
+				"c-code": "450300",
+				"p-code": "450000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "3",
+				"city": "柳州市",
+				"c-code": "450200",
+				"p-code": "450000"
+			},
+			{
+				"province": "福建省",
+				"city_level": "3",
+				"city": "龙岩市",
+				"c-code": "350800",
+				"p-code": "350000"
+			},
+			{
+				"province": "贵州省",
+				"city_level": "3",
+				"city": "安顺市",
+				"c-code": "520400",
+				"p-code": "520000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "保山市",
+				"c-code": "530500",
+				"p-code": "530000"
+			},
+			{
+				"province": "福建省",
+				"city_level": "3",
+				"city": "莆田市",
+				"c-code": "350300",
+				"p-code": "350000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "3",
+				"city": "河池市",
+				"c-code": "451200",
+				"p-code": "450000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "德宏傣族景颇族自治州",
+				"c-code": "533100",
+				"p-code": "530000"
+			},
+			{
+				"province": "台湾省",
+				"city_level": "2",
+				"city": "台湾省",
+				"c-code": "710000",
+				"p-code": "710000"
+			},
+			{
+				"province": "福建省",
+				"city_level": "3",
+				"city": "泉州市",
+				"c-code": "350500",
+				"p-code": "350000"
+			},
+			{
+				"province": "福建省",
+				"city_level": "3",
+				"city": "漳州市",
+				"c-code": "350600",
+				"p-code": "350000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "清远市",
+				"c-code": "441800",
+				"p-code": "440000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "3",
+				"city": "贺州市",
+				"c-code": "451100",
+				"p-code": "450000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "临沧市",
+				"c-code": "530900",
+				"p-code": "530000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "梅州市",
+				"c-code": "441400",
+				"p-code": "440000"
+			},
+			{
+				"province": "贵州省",
+				"city_level": "3",
+				"city": "黔西南布依族苗族自治州",
+				"c-code": "522300",
+				"p-code": "520000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "3",
+				"city": "百色市",
+				"c-code": "451000",
+				"p-code": "450000"
+			},
+			{
+				"province": "福建省",
+				"city_level": "2",
+				"city": "厦门市",
+				"c-code": "350200",
+				"p-code": "350000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "普洱市",
+				"c-code": "530800",
+				"p-code": "530000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "河源市",
+				"c-code": "441600",
+				"p-code": "440000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "文山壮族苗族自治州",
+				"c-code": "532600",
+				"p-code": "530000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "3",
+				"city": "来宾市",
+				"c-code": "451300",
+				"p-code": "450000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "3",
+				"city": "梧州市",
+				"c-code": "450400",
+				"p-code": "450000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "3",
+				"city": "贵港市",
+				"c-code": "450800",
+				"p-code": "450000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "红河哈尼族彝族自治州",
+				"c-code": "532500",
+				"p-code": "530000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "玉溪市",
+				"c-code": "530400",
+				"p-code": "530000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "2",
+				"city": "南宁市",
+				"c-code": "450100",
+				"p-code": "450000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "1",
+				"city": "广州市",
+				"c-code": "440100",
+				"p-code": "440000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "揭阳市",
+				"c-code": "445200",
+				"p-code": "440000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "潮州市",
+				"c-code": "445100",
+				"p-code": "440000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "2",
+				"city": "汕头市",
+				"c-code": "440500",
+				"p-code": "440000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "云浮市",
+				"c-code": "445300",
+				"p-code": "440000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "3",
+				"city": "玉林市",
+				"c-code": "450900",
+				"p-code": "450000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "佛山市",
+				"c-code": "440600",
+				"p-code": "440000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "肇庆市",
+				"c-code": "441200",
+				"p-code": "440000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "惠州市",
+				"c-code": "441300",
+				"p-code": "440000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "汕尾市",
+				"c-code": "441500",
+				"p-code": "440000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "阳江市",
+				"c-code": "441700",
+				"p-code": "440000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "3",
+				"city": "钦州市",
+				"c-code": "450700",
+				"p-code": "450000"
+			},
+			{
+				"province": "香港特别行政区",
+				"city_level": "2",
+				"city": "香港特别行政区",
+				"c-code": "810000",
+				"p-code": "810000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "1",
+				"city": "深圳市",
+				"c-code": "440300",
+				"p-code": "440000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "2",
+				"city": "珠海市",
+				"c-code": "440400",
+				"p-code": "440000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "湛江市",
+				"c-code": "440800",
+				"p-code": "440000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "3",
+				"city": "北海市",
+				"c-code": "450500",
+				"p-code": "450000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "江门市",
+				"c-code": "440700",
+				"p-code": "440000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "茂名市",
+				"c-code": "440900",
+				"p-code": "440000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "东沙群岛",
+				"c-code": "440000",
+				"p-code": "440000"
+			},
+			{
+				"province": "海南省",
+				"city_level": "2",
+				"city": "海口市",
+				"c-code": "460100",
+				"p-code": "460000"
+			},
+			{
+				"province": "海南省",
+				"city_level": "3",
+				"city": "儋州市",
+				"c-code": "469000",
+				"p-code": "460000"
+			},
+			{
+				"province": "海南省",
+				"city_level": "3",
+				"city": "三沙市",
+				"c-code": "460300",
+				"p-code": "460000"
+			},
+			{
+				"province": "海南省",
+				"city_level": "3",
+				"city": "三亚市",
+				"c-code": "460200",
+				"p-code": "460000"
+			},
+			{
+				"province": "吉林省",
+				"city_level": "3",
+				"city": "辽源市",
+				"c-code": "220400",
+				"p-code": "220000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "济宁市",
+				"c-code": "370800",
+				"p-code": "370000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "枣庄市",
+				"c-code": "370400",
+				"p-code": "370000"
+			},
+			{
+				"province": "陕西省",
+				"city_level": "3",
+				"city": "榆林市",
+				"c-code": "610800",
+				"p-code": "610000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "滨州市",
+				"c-code": "371600",
+				"p-code": "370000"
+			},
+			{
+				"province": "陕西省",
+				"city_level": "3",
+				"city": "安康市",
+				"c-code": "610900",
+				"p-code": "610000"
+			},
+			{
+				"province": "河北省",
+				"city_level": "3",
+				"city": "承德市",
+				"c-code": "130800",
+				"p-code": "130000"
+			},
+			{
+				"province": "河北省",
+				"city_level": "3",
+				"city": "廊坊市",
+				"c-code": "131000",
+				"p-code": "130000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "3",
+				"city": "郴州市",
+				"c-code": "431000",
+				"p-code": "430000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "韶关市",
+				"c-code": "440200",
+				"p-code": "440000"
+			},
+			{
+				"province": "江西省",
+				"city_level": "3",
+				"city": "萍乡市",
+				"c-code": "360300",
+				"p-code": "360000"
+			},
+			{
+				"province": "江西省",
+				"city_level": "2",
+				"city": "南昌市",
+				"c-code": "360100",
+				"p-code": "360000"
+			},
+			{
+				"province": "江西省",
+				"city_level": "3",
+				"city": "宜春市",
+				"c-code": "360900",
+				"p-code": "360000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "黄山市",
+				"c-code": "341000",
+				"p-code": "340000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "宣城市",
+				"c-code": "341800",
+				"p-code": "340000"
+			},
+			{
+				"province": "黑龙江省",
+				"city_level": "3",
+				"city": "绥化市",
+				"c-code": "231200",
+				"p-code": "230000"
+			},
+			{
+				"province": "黑龙江省",
+				"city_level": "2",
+				"city": "哈尔滨市",
+				"c-code": "230100",
+				"p-code": "230000"
+			},
+			{
+				"province": "江苏省",
+				"city_level": "3",
+				"city": "淮安市",
+				"c-code": "320800",
+				"p-code": "320000"
+			},
+			{
+				"province": "陕西省",
+				"city_level": "3",
+				"city": "渭南市",
+				"c-code": "610500",
+				"p-code": "610000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "3",
+				"city": "巴音郭楞蒙古自治州",
+				"c-code": "652800",
+				"p-code": "650000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "2",
+				"city": "昆明市",
+				"c-code": "530100",
+				"p-code": "530000"
+			},
+			{
+				"province": "吉林省",
+				"city_level": "3",
+				"city": "四平市",
+				"c-code": "220300",
+				"p-code": "220000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "3",
+				"city": "铁岭市",
+				"c-code": "211200",
+				"p-code": "210000"
+			},
+			{
+				"province": "青海省",
+				"city_level": "2",
+				"city": "西宁市",
+				"c-code": "630100",
+				"p-code": "630000"
+			},
+			{
+				"province": "江苏省",
+				"city_level": "3",
+				"city": "常州市",
+				"c-code": "320400",
+				"p-code": "320000"
+			},
+			{
+				"province": "江苏省",
+				"city_level": "3",
+				"city": "无锡市",
+				"c-code": "320200",
+				"p-code": "320000"
+			},
+			{
+				"province": "河北省",
+				"city_level": "3",
+				"city": "衡水市",
+				"c-code": "131100",
+				"p-code": "130000"
+			},
+			{
+				"province": "河北省",
+				"city_level": "2",
+				"city": "石家庄市",
+				"c-code": "130100",
+				"p-code": "130000"
+			},
+			{
+				"province": "河北省",
+				"city_level": "3",
+				"city": "保定市",
+				"c-code": "130600",
+				"p-code": "130000"
+			},
+			{
+				"province": "河北省",
+				"city_level": "3",
+				"city": "张家口市",
+				"c-code": "130700",
+				"p-code": "130000"
+			},
+			{
+				"province": "吉林省",
+				"city_level": "3",
+				"city": "延边朝鲜族自治州",
+				"c-code": "222400",
+				"p-code": "220000"
+			},
+			{
+				"province": "江苏省",
+				"city_level": "3",
+				"city": "盐城市",
+				"c-code": "320900",
+				"p-code": "320000"
+			},
+			{
+				"province": "内蒙古自治区",
+				"city_level": "3",
+				"city": "赤峰市",
+				"c-code": "150400",
+				"p-code": "150000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "3",
+				"city": "朝阳市",
+				"c-code": "211300",
+				"p-code": "210000"
+			},
+			{
+				"province": "黑龙江省",
+				"city_level": "3",
+				"city": "牡丹江市",
+				"c-code": "231000",
+				"p-code": "230000"
+			},
+			{
+				"province": "北京市",
+				"city_level": "1",
+				"city": "北京市",
+				"c-code": "110100",
+				"p-code": "110000"
+			},
+			{
+				"province": "吉林省",
+				"city_level": "3",
+				"city": "白城市",
+				"c-code": "220800",
+				"p-code": "220000"
+			},
+			{
+				"province": "贵州省",
+				"city_level": "3",
+				"city": "六盘水市",
+				"c-code": "520200",
+				"p-code": "520000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "3",
+				"city": "克拉玛依市",
+				"c-code": "650200",
+				"p-code": "650000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "3",
+				"city": "本溪市",
+				"c-code": "210500",
+				"p-code": "210000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "2",
+				"city": "沈阳市",
+				"c-code": "210100",
+				"p-code": "210000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "楚雄彝族自治州",
+				"c-code": "532300",
+				"p-code": "530000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "3",
+				"city": "湘潭市",
+				"c-code": "430300",
+				"p-code": "430000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "3",
+				"city": "娄底市",
+				"c-code": "431300",
+				"p-code": "430000"
+			},
+			{
+				"province": "浙江省",
+				"city_level": "3",
+				"city": "丽水市",
+				"c-code": "331100",
+				"p-code": "330000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "芜湖市",
+				"c-code": "340200",
+				"p-code": "340000"
+			},
+			{
+				"province": "江西省",
+				"city_level": "3",
+				"city": "鹰潭市",
+				"c-code": "360600",
+				"p-code": "360000"
+			},
+			{
+				"province": "江西省",
+				"city_level": "3",
+				"city": "抚州市",
+				"c-code": "361000",
+				"p-code": "360000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "驻马店市",
+				"c-code": "411700",
+				"p-code": "410000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "亳州市",
+				"c-code": "341600",
+				"p-code": "340000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "蚌埠市",
+				"c-code": "340300",
+				"p-code": "340000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "3",
+				"city": "滁州市",
+				"c-code": "341100",
+				"p-code": "340000"
+			},
+			{
+				"province": "安徽省",
+				"city_level": "2",
+				"city": "合肥市",
+				"c-code": "340100",
+				"p-code": "340000"
+			},
+			{
+				"province": "山西省",
+				"city_level": "3",
+				"city": "忻州市",
+				"c-code": "140900",
+				"p-code": "140000"
+			},
+			{
+				"province": "山西省",
+				"city_level": "3",
+				"city": "吕梁市",
+				"c-code": "141100",
+				"p-code": "140000"
+			},
+			{
+				"province": "山西省",
+				"city_level": "2",
+				"city": "太原市",
+				"c-code": "140100",
+				"p-code": "140000"
+			},
+			{
+				"province": "山西省",
+				"city_level": "3",
+				"city": "晋中市",
+				"c-code": "140700",
+				"p-code": "140000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "淄博市",
+				"c-code": "370300",
+				"p-code": "370000"
+			},
+			{
+				"province": "山东省",
+				"city_level": "3",
+				"city": "潍坊市",
+				"c-code": "370700",
+				"p-code": "370000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "3",
+				"city": "营口市",
+				"c-code": "210800",
+				"p-code": "210000"
+			},
+			{
+				"province": "辽宁省",
+				"city_level": "3",
+				"city": "鞍山市",
+				"c-code": "210300",
+				"p-code": "210000"
+			},
+			{
+				"province": "四川省",
+				"city_level": "3",
+				"city": "甘孜藏族自治州",
+				"c-code": "513300",
+				"p-code": "510000"
+			},
+			{
+				"province": "青海省",
+				"city_level": "3",
+				"city": "果洛藏族自治州",
+				"c-code": "632600",
+				"p-code": "630000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "3",
+				"city": "防城港市",
+				"c-code": "450600",
+				"p-code": "450000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "东莞市",
+				"c-code": "441900",
+				"p-code": "440000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "2",
+				"city": "乌鲁木齐市",
+				"c-code": "650100",
+				"p-code": "650000"
+			},
+			{
+				"province": "黑龙江省",
+				"city_level": "3",
+				"city": "佳木斯市",
+				"c-code": "230800",
+				"p-code": "230000"
+			},
+			{
+				"province": "黑龙江省",
+				"city_level": "3",
+				"city": "伊春市",
+				"c-code": "230700",
+				"p-code": "230000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "3",
+				"city": "哈密地区",
+				"c-code": "652200",
+				"p-code": "650000"
+			},
+			{
+				"province": "西藏自治区",
+				"city_level": "3",
+				"city": "阿里地区",
+				"c-code": "542500",
+				"p-code": "540000"
+			},
+			{
+				"province": "西藏自治区",
+				"city_level": "3",
+				"city": "山南地区",
+				"c-code": "542200",
+				"p-code": "540000"
+			},
+			{
+				"province": "西藏自治区",
+				"city_level": "3",
+				"city": "林芝地区",
+				"c-code": "542600",
+				"p-code": "540000"
+			},
+			{
+				"province": "云南省",
+				"city_level": "3",
+				"city": "西双版纳傣族自治州",
+				"c-code": "532800",
+				"p-code": "530000"
+			},
+			{
+				"province": "广西壮族自治区",
+				"city_level": "3",
+				"city": "崇左市",
+				"c-code": "451400",
+				"p-code": "450000"
+			},
+			{
+				"province": "天津市",
+				"city_level": "2",
+				"city": "天津市",
+				"c-code": "120100",
+				"p-code": "120000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "3",
+				"city": "喀什地区",
+				"c-code": "653100",
+				"p-code": "650000"
+			},
+			{
+				"province": "内蒙古自治区",
+				"city_level": "3",
+				"city": "呼伦贝尔市",
+				"c-code": "150700",
+				"p-code": "150000"
+			},
+			{
+				"province": "贵州省",
+				"city_level": "3",
+				"city": "黔东南苗族侗族自治州",
+				"c-code": "522600",
+				"p-code": "520000"
+			},
+			{
+				"province": "湖南省",
+				"city_level": "3",
+				"city": "怀化市",
+				"c-code": "431200",
+				"p-code": "430000"
+			},
+			{
+				"province": "青海省",
+				"city_level": "3",
+				"city": "黄南藏族自治州",
+				"c-code": "632300",
+				"p-code": "630000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "3",
+				"city": "阿克苏地区",
+				"c-code": "652900",
+				"p-code": "650000"
+			},
+			{
+				"province": "新疆维吾尔自治区",
+				"city_level": "3",
+				"city": "塔城地区",
+				"c-code": "654200",
+				"p-code": "650000"
+			},
+			{
+				"province": "贵州省",
+				"city_level": "3",
+				"city": "毕节市",
+				"c-code": "520500",
+				"p-code": "520000"
+			},
+			{
+				"province": "内蒙古自治区",
+				"city_level": "3",
+				"city": "阿拉善盟",
+				"c-code": "152900",
+				"p-code": "150000"
+			},
+			{
+				"province": "宁夏回族自治区",
+				"city_level": "3",
+				"city": "中卫市",
+				"c-code": "640500",
+				"p-code": "640000"
+			},
+			{
+				"province": "内蒙古自治区",
+				"city_level": "3",
+				"city": "包头市",
+				"c-code": "150200",
+				"p-code": "150000"
+			},
+			{
+				"province": "吉林省",
+				"city_level": "3",
+				"city": "松原市",
+				"c-code": "220700",
+				"p-code": "220000"
+			},
+			{
+				"province": "广东省",
+				"city_level": "3",
+				"city": "中山市",
+				"c-code": "442000",
+				"p-code": "440000"
+			},
+			{
+				"province": "澳门特别行政区",
+				"city_level": "2",
+				"city": "澳门特别行政区",
+				"c-code": "820000",
+				"p-code": "820000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "焦作市",
+				"c-code": "410800",
+				"p-code": "410000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "济源市",
+				"c-code": "419000",
+				"p-code": "410000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "平顶山市",
+				"c-code": "410400",
+				"p-code": "410000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "安阳市",
+				"c-code": "410500",
+				"p-code": "410000"
+			},
+			{
+				"province": "河南省",
+				"city_level": "3",
+				"city": "新乡市",
+				"c-code": "410700",
+				"p-code": "410000"
+			}
+		]
+	},
+	"seq": "b69c28354bdd4a62a0824c0040ecfc47"
+}
