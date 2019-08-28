@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.bitoperate;
 
 public class Letcode231 {
   public boolean isPowerOfTwo(int n) {

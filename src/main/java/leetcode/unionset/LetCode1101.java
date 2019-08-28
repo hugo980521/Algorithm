@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.unionset;
 
 import java.util.ArrayList;
 import java.util.Collections;

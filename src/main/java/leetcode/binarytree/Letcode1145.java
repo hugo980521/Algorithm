@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.binarytree;
 
 public class Letcode1145 {
   public boolean btreeGameWinningMove(TreeNode root, int n, int x) {

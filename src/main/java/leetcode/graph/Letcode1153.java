@@ -1,7 +1,4 @@
-package leetcode;
-
-import java.util.HashSet;
-import java.util.Set;
+package leetcode.graph;
 
 /**
  * 给出两个长度相同的字符串，分别是 str1 和 str2。请你帮忙判断字符串 str1 能不能在 零次 或 多次 转化后变成字符串 str2。
@@ -60,13 +57,6 @@ public class Letcode1153 {
 
   }
 
-  private Set<Character> getSet(String str) {
-    Set<Character> charactersSet = new HashSet<>();
-    for (char ch : str.toCharArray()) {
-      charactersSet.add(ch);
-    }
-    return charactersSet;
-  }
 
   public static void main(String[] args) {
     String str1="alekefvwrzzcowensxdmgaaoirrdtwyeanlilhpdkxdznsiyljdvbkuengpbzdhxrbmehsbqywctdtbvgmwmfhwrtthykoteaoiswqozigivsqkdbwzztdsfkcpnzqzgeslqydnazduunvznonzxnovghbkeosyrkaypazpecnwtdkrqlfjshyrgtwufiakezaptjjvhtorrynuidxinotwhfk";

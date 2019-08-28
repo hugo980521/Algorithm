@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.bitoperate;
 
 public class Letcode201 {
 
